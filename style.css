@@ -1,0 +1,88 @@
+h1{
+	font-family: cursive;
+}
+p{
+	font-family: cursive;
+}
+
+.header{
+	background-color: #04AA6D;
+	font-family: tahoma;
+	color: white;
+	text-align: center;
+	padding: 25px;
+	line-height: 10px;
+	margin-left: 7px;
+	margin-right: 7px;
+}
+.container{
+	overflow: hidden;
+	margin-top: 10px;
+}
+.m-bar{
+    height: 400px;
+    width: 20%;
+    float: left;
+    background-color: transparent;
+    margin-left: 5px;
+}
+.m-list{
+	margin-right: 50px;
+    
+}
+.m-item{
+    background-color: #04AA6D;
+    text-align: center;
+    font-family: cursive;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+
+}
+a:hover{
+	color: black;
+}
+.body{
+    height: 400px;
+    width: 58%;
+    float: left;
+    background-color: transparent;
+    margin-left: 8px;
+}
+.a-link{
+	
+	font-family: cursive;
+	font-size: 15px;
+
+	
+}
+
+.s-bar{
+    height: 400px;
+    width: 20%;
+    float: left;
+    background-color: #32A4E7;
+    margin-left: 8px;
+    color: white;
+    
+ 
+}
+.ppp{
+	padding: 10px;
+	text-align: justify;
+}
+
+.ftr{
+	min-height: 70px;
+	border: 1px solid #d4d4d4;
+	background-color: #f1f1f1;
+	text-align: center;
+	padding: 10px;
+	font-size: 78%;
+	line-height: 35px;
+	margin-top: 10px;
+}
+.pppp{
+	text-align: justify;
+	padding: 10px;
+}
